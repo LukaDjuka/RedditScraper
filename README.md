@@ -4,7 +4,8 @@ A program to scrape the top several posts of any subreddit and present it using 
 RedditScraper class provides the functionality to scrape reddit.
 
 ScraperGui class provides the GUI for the user to interact with when using the functionality of the program.
-##Run ScraperGui
+
+## Run ScraperGui
 
 Requires the jsoup library.
 
