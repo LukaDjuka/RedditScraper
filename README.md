@@ -9,4 +9,8 @@ ScraperGui class provides the GUI for the user to interact with when using the f
 
 Requires the jsoup library.
 
+To run, include the jsoup-1.13.1.jar in the classpath alongside the compiled classses.
+
+Then run source.ScraperGui
+
 As of August 21, 2020 - Uses Jsoup-1.13.1.jar.
